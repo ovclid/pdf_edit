@@ -65,4 +65,4 @@ _굵은글씨_
 ***
 ___
 
-<img src = "https://user-images.githubusercontent.com/53159064/118344295-6e7f6100-b568-11eb-8e1e-d485141ae3d0.jpg" width ="50%" height:"30%">
+<img src = "https://user-images.githubusercontent.com/53159064/118344295-6e7f6100-b568-11eb-8e1e-d485141ae3d0.jpg" width ="50%", height:"30%">
