@@ -1,0 +1,4 @@
+page,x,y,너비,높이,사이트
+
+1, 30, 30, 780, 220, https://www.naver.com
+1, 30, 260, 780, 200, https://www.daum.net
